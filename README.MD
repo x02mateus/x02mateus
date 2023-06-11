@@ -7,7 +7,7 @@
 
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 
-## Minha linguagem de programação:
+## Minha linguagem de programação que mais uso:
 
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" /> 
 
